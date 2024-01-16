@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="[https://media2.giphy.com/media/3oeHLbTyqUfP1Qp9WU/giphy.gif?cid=ecf05e4745wdx5mhn9zuaaqnn94v0sbrzk2uxuw8w9dmyze6&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://media.giphy.com/media/3oz8xJqB9QRKhs17SU/giphy.gif)" style="width: 100%"/>
+  <img src="https://media2.giphy.com/media/3oeHLbTyqUfP1Qp9WU/giphy.gif?cid=ecf05e4745wdx5mhn9zuaaqnn94v0sbrzk2uxuw8w9dmyze6&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="width: 100%"/>
 </p>
 
 <h2 align="center">👋 Hello everyone! I'm Serhey (AKA: Burunduckc)</h2>
-
----
 
 ### About me
 
