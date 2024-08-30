@@ -8,7 +8,7 @@
 
 - 💻 1.3 year in Front end development
 - 📙 Student rs-school
-- 📍 Kryvyi Rih, Ukraine
+- 📍 Sweden, Malmö
 
 ---
 
