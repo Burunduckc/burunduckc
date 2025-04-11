@@ -2,11 +2,11 @@
   <img src="https://media2.giphy.com/media/3oeHLbTyqUfP1Qp9WU/giphy.gif?cid=ecf05e4745wdx5mhn9zuaaqnn94v0sbrzk2uxuw8w9dmyze6&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="width: 100%"/>
 </p>
 
-<h2 align="center">👋 Hello everyone! I'm Serhey (AKA: Burunduckc)</h2>
+<h2 align="center">👋 Hello everyone! I'm Serhii (AKA: Burunduckc)</h2>
 
 ### About me
 
-- 💻 1.3 year in Front end development
+- 💻 2.6 year in Front end and Back end development
 - 📙 Student rs-school
 - 📍 Sweden, Malmö
 
@@ -19,12 +19,16 @@
 <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
+<img alt="nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;
 <img alt="express" src="https://img.shields.io/badge/express-90c53f.svg?&style=for-the-badge&logo=express&logoColor=fff" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/GraphQL-E631AD.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
 <img alt="redux toolkit" src="https://img.shields.io/badge/redux%20toolkit-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=fff" />&nbsp;
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="webpack" src="https://img.shields.io/badge/Webpack-3073D7.svg?&style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
+<img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-2F6792.svg?&style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
+<img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
+
 
 ---
 ### 🛠 Tools: 
@@ -38,9 +42,7 @@
 ### 🔮 Future plans:
 
 <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-<img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-2F6792.svg?&style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
-
 
 ---
 
@@ -49,6 +51,7 @@
 [<img alt="Instagram burunduckc's" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="Linkedin burunduckc's" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="Twitter burunduckc's" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
 ---
 
 
