@@ -1,67 +1,49 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/3oeHLbTyqUfP1Qp9WU/giphy.gif?cid=ecf05e4745wdx5mhn9zuaaqnn94v0sbrzk2uxuw8w9dmyze6&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="width: 100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img src="banner-light.png" width="100%" alt="burunduckc — full-stack web developer since 2022, Malmö, Sweden">
+</picture>
 
-<h2 align="center">👋 Hello everyone! I'm Serhii (AKA: Burunduckc)</h2>
+## About me
 
-### About me
+- 💻 Full-stack web developer since 2022
+- 📍 Malmö, Sweden
 
-- 💻 2.6 year in Front end and Back end development
-- 📙 Student rs-school
-- 📍 Sweden, Malmö
+## Tech Stack
 
----
-
-### 💻 Tech Stack:
-
-<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
-<img alt="node.js" src="https://img.shields.io/badge/node.js-90C53F.svg?&style=for-the-badge&logo=node.js&logoColor=fff" />&nbsp;
-<img alt="nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;
-<img alt="express" src="https://img.shields.io/badge/express-90c53f.svg?&style=for-the-badge&logo=express&logoColor=fff" />&nbsp;
-<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;
-<img alt="graphql" src="https://img.shields.io/badge/GraphQL-E631AD.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
-<img alt="redux toolkit" src="https://img.shields.io/badge/redux%20toolkit-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=fff" />&nbsp;
-<img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
-<img alt="webpack" src="https://img.shields.io/badge/Webpack-3073D7.svg?&style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
-<img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-2F6792.svg?&style=for-the-badge&logo=postgresql&logoColor=fff" />&nbsp;
-<img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
-
-
----
-### 🛠 Tools: 
-
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/Figma-1e1e1e.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
-<img alt="vscode" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="postman" src="https://img.shields.io/badge/postman-F26734.svg?&style=for-the-badge&logo=postman&logoColor=fff" />&nbsp;
-
----
-### 🔮 Future plans:
-
-<img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-<img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
-
----
-
-### 🤝 Contact with me:
-[<img alt="Telegram burunduckc's" src="https://img.shields.io/badge/telegram-0088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
-[<img alt="Instagram burunduckc's" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="Linkedin burunduckc's" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="Twitter burunduckc's" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-
----
-
-
-### 🔥My stats: 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burunduckc&show_icons=true&locale=en&layout=compact" alt="burunduckc" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burunduckc&" alt="burunduckc" /></p>
-
----
-[telegram]: https://t.me/burunduckc
-[instagram]: https://www.instagram.com/burunduckc/
-[twitter]: https://twitter.com/Burunduckc
-[linkedin]: https://www.linkedin.com/in/сергей-мелкумов-48400328b/ 
+<table>
+<tr>
+  <td><b>Frontend</b></td>
+  <td><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></td>
+  <td><img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=fff" /></td>
+  <td><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" /></td>
+  <td><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" /></td>
+  <td><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff" /></td>
+  <td><img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff" /></td>
+</tr>
+<tr>
+  <td><b>Backend</b></td>
+  <td><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff" /></td>
+  <td><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff" /></td>
+  <td><img alt="Express" src="https://img.shields.io/badge/Express-1F2937?style=for-the-badge&logo=express&logoColor=fff" /></td>
+  <td><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" /></td>
+</tr>
+<tr>
+  <td><b>Data</b></td>
+  <td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" /></td>
+  <td><img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff" /></td>
+  <td><img alt="Neon" src="https://img.shields.io/badge/Neon-34D59A?style=for-the-badge&logo=neon&logoColor=000" /></td>
+</tr>
+<tr>
+  <td><b>Deploy</b></td>
+  <td><img alt="Vercel" src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=fff" /></td>
+  <td><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff" /></td>
+  <td><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff" /></td>
+</tr>
+<tr>
+  <td><b>Tools</b></td>
+  <td><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" /></td>
+  <td><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" /></td>
+  <td><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" /></td>
+  <td><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff" /></td>
+</tr>
+</table>
